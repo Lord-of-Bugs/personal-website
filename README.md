@@ -1,1 +1,1 @@
-# Come here to find out who <strong>Muchan</strong> is and what he does in his daily life!
+# Come here to find out who Muchan is and what he does in his daily life!
