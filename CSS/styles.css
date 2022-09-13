@@ -1,0 +1,18 @@
+body {
+    background-color: #DFE8CC;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #FF0063;
+    border-width: 5px;
+    width: 15%;
+}
+h1 {
+    font-family: 'georgia';
+    color: #66BFBF;
+}
+h3 {
+    font-family: 'georgia';
+    color: #66BFBF;
+}
