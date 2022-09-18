@@ -60,7 +60,7 @@ hr {
     padding: 50px 0 20px;
 }
 
-.data {
+.data, .programmer, .web {
     text-decoration: underline;
 }
 
